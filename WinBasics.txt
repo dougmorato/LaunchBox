@@ -1,4 +1,4 @@
-Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives --EnableShowFileExtensions -EnableShowFullPathInTitleBar
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowFileExtensions -EnableShowFullPathInTitleBar
 Set-TaskbarOptions -Size Small -Lock -Dock Left
 Enable-RemoteDesktop
 Disable-InternetExplorerESC
