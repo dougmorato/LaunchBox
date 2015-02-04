@@ -5,6 +5,3 @@ Disable-InternetExplorerESC
 
 cinst sublimetext2
 cinst googlechrome
-
-
-Install-Windows-Update
